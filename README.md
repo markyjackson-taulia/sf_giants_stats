@@ -14,7 +14,7 @@ And hey, if you're ever in San Francisco and want to catch a Giants game with me
 
 ## Disclaimer
 
-Hey there, before we dive into the code, I want to make something clear - this is just a simple program I made to scratch an itch. I know there are other more elegant and visually-pleasing ways to get baseball stats, but I just wanted to have some fun and share it with fellow baseball fans.
+Hey there, before we dive into the code, I want to make something clear - this is just a simple program I made to have fun. I know there are other more elegant and visually-pleasing ways to get baseball stats, but I just wanted to have some fun and share it with fellow baseball fans.
 
 That being said, I welcome any feedback or suggestions you may have for how to improve this program or make it more useful for baseball fans. But above all, let's remember to be nice! We're all here because we love baseball and want to share that love with others.
 
